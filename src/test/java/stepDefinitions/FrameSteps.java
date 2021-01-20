@@ -9,7 +9,7 @@ import pages.HomePage;
 import utilities.ConfigurationReader;
 import utilities.Driver;
 
-public class LoginStepDefinitions {
+public class FrameSteps {
     //this is how we create page objects
     HomePage homePage = new HomePage();
     AlertsFramesWindowsPage alertsFrameWindowsPAge = new AlertsFramesWindowsPage();
